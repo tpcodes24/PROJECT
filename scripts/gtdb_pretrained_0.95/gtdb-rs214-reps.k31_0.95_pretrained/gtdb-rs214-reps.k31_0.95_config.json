@@ -1,0 +1,8 @@
+{
+    "manifest_file_path": "/Users/tejasreeparasa/YACHT/scripts/gtdb_pretrained_0.95/gtdb-rs214-reps.k31_0.95_pretrained/gtdb-rs214-reps.k31_0.95_processed_manifest.tsv",
+    "remove_correspondence_file_path": "/Users/tejasreeparasa/YACHT/scripts/gtdb_pretrained_0.95/gtdb-rs214-reps.k31_0.95_pretrained/gtdb-rs214-reps.k31_0.95_removed_orgs_to_corr_orgas_mapping.tsv",
+    "intermediate_files_dir": "/Users/tejasreeparasa/YACHT/scripts/gtdb_pretrained_0.95/gtdb-rs214-reps.k31_0.95_pretrained/gtdb-rs214-reps.k31_0.95_intermediate_files",
+    "scale": 1000,
+    "ksize": 31,
+    "ani_thresh": 0.95
+}

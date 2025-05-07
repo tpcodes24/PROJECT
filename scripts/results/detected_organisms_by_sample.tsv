@@ -1,0 +1,161 @@
+sample_name	organism_name	min_coverage
+206548	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206548	GCA_021208965.1 Gammaproteobacteria bacterium, ASM2120896v1	min_coverage0.01
+206548	GCF_001808555.1 Porphyromonas sp. HMSC065F10 strain=HMSC065F10, ASM180855v1	min_coverage0.01
+206548	GCF_000162875.1 Slackia exigua ATCC 700122 strain=ATCC 700122, ASM16287v1	min_coverage0.01
+206548	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206548	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206548	GCA_021208965.1 Gammaproteobacteria bacterium, ASM2120896v1	min_coverage0.005
+206548	GCF_001808555.1 Porphyromonas sp. HMSC065F10 strain=HMSC065F10, ASM180855v1	min_coverage0.005
+206548	GCF_000162875.1 Slackia exigua ATCC 700122 strain=ATCC 700122, ASM16287v1	min_coverage0.005
+206548	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206538	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206538	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206538	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206538	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206628	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206628	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206603	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206603	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206603	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206603	GCF_000157995.1 Holdemania filiformis DSM 12042 strain=DSM 12042, ASM15799v1	min_coverage0.005
+206603	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206603	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206534	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206534	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206534	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206534	GCF_000157995.1 Holdemania filiformis DSM 12042 strain=DSM 12042, ASM15799v1	min_coverage0.005
+206534	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206534	GCF_021531695.1 Roseburia hominis strain=An869, ASM2153169v1	min_coverage0.005
+206534	GCF_014385435.1 Alloprevotella sp. Lung230 strain=Lung230, ASM1438543v1	min_coverage0.005
+206563	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206563	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206563	GCF_011301715.1 Sphingomonas sp. HDW15A strain=HDW15A, ASM1130171v1	min_coverage0.005
+206563	GCF_014385435.1 Alloprevotella sp. Lung230 strain=Lung230, ASM1438543v1	min_coverage0.005
+206563	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206563	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206615	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206615	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206615	GCF_900095865.1 Massilioclostridium coli strain=Marseille-P2976, PRJEB15310	min_coverage0.005
+206609	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206609	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206609	GCF_000157995.1 Holdemania filiformis DSM 12042 strain=DSM 12042, ASM15799v1	min_coverage0.005
+206609	GCF_021531695.1 Roseburia hominis strain=An869, ASM2153169v1	min_coverage0.005
+206609	GCF_003865035.1 Anaerotignum faecicola strain=KCTC 15736, ASM386503v1	min_coverage0.005
+206609	GCA_022563595.1 Gemmatimonadetes bacterium, ASM2256359v1	min_coverage0.005
+206569	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206569	GCA_001917125.1 Azospirillum sp. 47_25, ASM191712v1	min_coverage0.01
+206569	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206569	GCA_001917125.1 Azospirillum sp. 47_25, ASM191712v1	min_coverage0.005
+206569	GCA_005116745.1 Nitrospira sp., ASM511674v1	min_coverage0.005
+206569	GCA_945871905.1 Chitinophaga pinensis, GE-03apr19-118	min_coverage0.005
+206569	GCF_000157995.1 Holdemania filiformis DSM 12042 strain=DSM 12042, ASM15799v1	min_coverage0.005
+206569	GCF_014287275.1 Anaerofilum sp. BX8 strain=BX8, ASM1428727v1	min_coverage0.005
+206569	GCF_003460505.1 Eubacterium sp. AF36-5BH strain=AF36-5BH, ASM346050v1	min_coverage0.005
+206569	GCF_014287895.1 Lawsonibacter sp. NSJ-51 strain=NSJ-51, ASM1428789v1	min_coverage0.005
+206569	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206569	GCA_019418625.1 Clostridiales bacterium, ASM1941862v1	min_coverage0.005
+206569	GCF_900291955.1 Pseudoruminoccoccus massiliensis strain=Marseille-P3876, PRJEB24956	min_coverage0.005
+206569	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206547	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206547	GCF_001808555.1 Porphyromonas sp. HMSC065F10 strain=HMSC065F10, ASM180855v1	min_coverage0.01
+206547	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206547	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206547	GCF_001808555.1 Porphyromonas sp. HMSC065F10 strain=HMSC065F10, ASM180855v1	min_coverage0.005
+206547	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206547	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206547	GCF_017744155.1 Endozoicomonas sp. G2_1 strain=G2_1, ASM1774415v1	min_coverage0.005
+206547	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206547	GCA_910575435.1 Clostridiaceae bacterium, MGBC000210	min_coverage0.005
+206570	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206570	GCA_001917125.1 Azospirillum sp. 47_25, ASM191712v1	min_coverage0.01
+206570	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206570	GCF_016899725.1 Bifidobacterium pullorum subsp. saeculare strain=An836, ASM1689972v1	min_coverage0.005
+206570	GCA_001917125.1 Azospirillum sp. 47_25, ASM191712v1	min_coverage0.005
+206570	GCA_005116745.1 Nitrospira sp., ASM511674v1	min_coverage0.005
+206570	GCF_000157995.1 Holdemania filiformis DSM 12042 strain=DSM 12042, ASM15799v1	min_coverage0.005
+206570	GCF_014287275.1 Anaerofilum sp. BX8 strain=BX8, ASM1428727v1	min_coverage0.005
+206570	GCF_003460505.1 Eubacterium sp. AF36-5BH strain=AF36-5BH, ASM346050v1	min_coverage0.005
+206570	GCF_021531695.1 Roseburia hominis strain=An869, ASM2153169v1	min_coverage0.005
+206570	GCF_014287895.1 Lawsonibacter sp. NSJ-51 strain=NSJ-51, ASM1428789v1	min_coverage0.005
+206570	GCA_016789145.1 Blastocatellia bacterium, ASM1678914v1	min_coverage0.005
+206570	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206570	GCF_900291955.1 Pseudoruminoccoccus massiliensis strain=Marseille-P3876, PRJEB24956	min_coverage0.005
+206570	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206605	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206605	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206605	GCF_021531695.1 Roseburia hominis strain=An869, ASM2153169v1	min_coverage0.005
+206605	GCF_003865035.1 Anaerotignum faecicola strain=KCTC 15736, ASM386503v1	min_coverage0.005
+206605	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206605	GCF_900291955.1 Pseudoruminoccoccus massiliensis strain=Marseille-P3876, PRJEB24956	min_coverage0.005
+206605	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206622	GCF_003460505.1 Eubacterium sp. AF36-5BH strain=AF36-5BH, ASM346050v1	min_coverage0.005
+206622	GCF_014385435.1 Alloprevotella sp. Lung230 strain=Lung230, ASM1438543v1	min_coverage0.005
+206622	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206617	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206617	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206617	GCF_021531695.1 Roseburia hominis strain=An869, ASM2153169v1	min_coverage0.005
+206617	GCA_910575435.1 Clostridiaceae bacterium, MGBC000210	min_coverage0.005
+206562	GCF_000157995.1 Holdemania filiformis DSM 12042 strain=DSM 12042, ASM15799v1	min_coverage0.005
+206562	GCF_021531695.1 Roseburia hominis strain=An869, ASM2153169v1	min_coverage0.005
+206562	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206562	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206562	GCA_001653155.1 Porphyromonadaceae bacterium H1 strain=H1, ASM165315v1	min_coverage0.005
+206625	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206625	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206625	GCF_003044035.1 Candidatus Methylomirabilis limnetica strain=Zug, ASM304403v1	min_coverage0.005
+206630	GCF_003416765.1 Olsenella sp. KCTC 15699 strain=KCTC 15699, ASM341676v1	min_coverage0.01
+206630	GCF_021531695.1 Roseburia hominis strain=An869, ASM2153169v1	min_coverage0.005
+206630	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206630	GCF_003574295.1 Mediterraneibacter butyricigenes strain=KCTC 15684, ASM357429v1	min_coverage0.005
+206630	GCF_009455685.1 Paraburkholderia hayleyella strain=BhQS11, ASM945568v1	min_coverage0.005
+206630	GCF_003416765.1 Olsenella sp. KCTC 15699 strain=KCTC 15699, ASM341676v1	min_coverage0.005
+206630	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206629	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206629	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206629	GCF_021531695.1 Roseburia hominis strain=An869, ASM2153169v1	min_coverage0.005
+206629	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206572	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206572	GCA_021208965.1 Gammaproteobacteria bacterium, ASM2120896v1	min_coverage0.01
+206572	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206572	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206572	GCA_021208965.1 Gammaproteobacteria bacterium, ASM2120896v1	min_coverage0.005
+206572	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206572	GCF_020268605.1 Arsenophonus endosymbiont of Apis mellifera strain=ArsBeeUS, ASM2026860v1	min_coverage0.005
+206564	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206564	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206571	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206571	GCF_000157995.1 Holdemania filiformis DSM 12042 strain=DSM 12042, ASM15799v1	min_coverage0.005
+206571	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206604	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206604	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206604	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206604	GCF_000157995.1 Holdemania filiformis DSM 12042 strain=DSM 12042, ASM15799v1	min_coverage0.005
+206604	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206604	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206604	GCA_011773515.1 Deltaproteobacteria bacterium, ASM1177351v1	min_coverage0.005
+206604	GCF_900291955.1 Pseudoruminoccoccus massiliensis strain=Marseille-P3876, PRJEB24956	min_coverage0.005
+206604	GCA_022563595.1 Gemmatimonadetes bacterium, ASM2256359v1	min_coverage0.005
+206604	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206536	GCF_000162875.1 Slackia exigua ATCC 700122 strain=ATCC 700122, ASM16287v1	min_coverage0.01
+206536	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.01
+206536	GCF_000162875.1 Slackia exigua ATCC 700122 strain=ATCC 700122, ASM16287v1	min_coverage0.005
+206536	GCF_000973505.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain=675, ASM97350v1	min_coverage0.005
+206536	GCF_014385435.1 Alloprevotella sp. Lung230 strain=Lung230, ASM1438543v1	min_coverage0.005
+206536	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206536	GCF_009455685.1 Paraburkholderia hayleyella strain=BhQS11, ASM945568v1	min_coverage0.005
+206536	GCF_900106785.1 Prevotellamassilia timonensis strain=Marseille-P2831, PRJEB16531	min_coverage0.005
+206608	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206608	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
+206608	GCF_000157995.1 Holdemania filiformis DSM 12042 strain=DSM 12042, ASM15799v1	min_coverage0.005
+206608	GCF_003460505.1 Eubacterium sp. AF36-5BH strain=AF36-5BH, ASM346050v1	min_coverage0.005
+206608	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206608	GCF_000686125.1 Ruminococcus sp. NK3A76 strain=NK3A76, ASM68612v1	min_coverage0.005
+206626	GCF_021531695.1 Roseburia hominis strain=An869, ASM2153169v1	min_coverage0.005
+206561	GCF_000157995.1 Holdemania filiformis DSM 12042 strain=DSM 12042, ASM15799v1	min_coverage0.005
+206561	GCF_021531695.1 Roseburia hominis strain=An869, ASM2153169v1	min_coverage0.005
+206561	GCF_014385435.1 Alloprevotella sp. Lung230 strain=Lung230, ASM1438543v1	min_coverage0.005
+206561	GCA_020635915.1 Flammeovirgaceae bacterium, ASM2063591v1	min_coverage0.005
+206561	GCF_009680455.1 Lachnospira eligens strain=BIOML-A1, ASM968045v1	min_coverage0.005
+206614	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.01
+206614	GCF_000163895.2 Filifactor alocis ATCC 35896 strain=ATCC 35896, ASM16389v2	min_coverage0.005
